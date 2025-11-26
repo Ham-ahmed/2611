@@ -13,7 +13,7 @@ NC='\033[0m' # No Color
 
 echo -e "${CYAN}"
 echo "################################################################"
-echo "#    Start downloading and installing  levi45-freeserver_1.9   #"
+echo "#    Start downloading and installing  levi45-levi45iptv_1.0   #"
 echo "################################################################"
 echo -e "${NC}"
 
